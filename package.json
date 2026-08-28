@@ -1,0 +1,19 @@
+{
+  "name": "gerador-card",
+  "version": "1.0.0",
+  "description": "Gerador de dados fictícios de cartões de crédito para testes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "card",
+    "generator",
+    "fake",
+    "test",
+    "credit-card"
+  ],
+  "author": "",
+  "license": "MIT"
+}
